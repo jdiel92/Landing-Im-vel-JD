@@ -1,3 +1,8 @@
+Deploy URL: https://landing-im-vel-jd-d69t.vercel.app/
+
+
+<img width="1579" height="767" alt="image" src="https://github.com/user-attachments/assets/f2451c1b-b191-488c-bee2-a84bf62c5615" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
